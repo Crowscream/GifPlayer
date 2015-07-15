@@ -5,7 +5,6 @@ Item {
     height: 480
 
         AnimatedImage { id: animage; objectName: "animage";  x: 48; y: 68; width: 537; height: 228; source: "qrc:///image/animation.gif" }
-        //Кнопка
         Rectangle {
             id: buttonPause
             x: 200
